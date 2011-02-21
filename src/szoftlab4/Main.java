@@ -19,6 +19,8 @@ public class Main {
         System.out.println("asdasd");
         System.out.println("asfdsfasd");
         System.out.println("asfdsfasf");
+	
+	// berakok uj dolgot bele
         
         //hehe
         
